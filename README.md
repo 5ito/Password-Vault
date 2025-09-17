@@ -49,7 +49,7 @@ It allows you to safely store, search, edit, and manage credentials using a mast
 
 1. Clone this repository:
 
-   git clone https://github.com/yourusername/password-vault.git
+   git clone https://github.com/5ito/Password-Vault.git
    cd password-vault
 
 2. (Optional but recommended) Create a virtual environment:
